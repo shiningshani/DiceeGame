@@ -13,4 +13,4 @@ See Dice Game Preview 👇
 
 ![Dice Game preview](https://shiningshani.github.io/DiceeGame/images/Look.png)
 
-Click [here](https://shiningshani.github.io/DiceGame/) to view the project.
+Click [here](https://shiningshani.github.io/DiceeGame/) to view the project.
