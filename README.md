@@ -1,5 +1,6 @@
 # DiceeGame
 🎲 Dice Game
+
 This is a simple dice game to play with your friend.
 
 Playing Instructions
