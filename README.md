@@ -11,6 +11,6 @@ This is a simple dice game to play with your friend.
 
 See Dice Game Preview 👇
 
-![Dice Game preview](https://shiningshani.github.io/DiceeGame/images/look.png)
+![Dice Game preview](https://shiningshani.github.io/DiceeGame/images/Look.png)
 
 Click [here](https://kakuli-coder.github.io/DiceGame/) to view the project.
